@@ -1,0 +1,12 @@
+{
+  "Foundation": {
+    "title": "Gaza Projects",
+    "description": "Frontend project foundation",
+    "status": "Development foundation ready",
+    "heading": "A clear foundation to build on",
+    "body": "Next.js, Tailwind, and Arabic and English support are configured. Product pages will follow the approved design.",
+    "language": "Change language",
+    "otherLanguage": "العربية",
+    "note": "Temporary setup verification page, not the final platform design."
+  }
+}
